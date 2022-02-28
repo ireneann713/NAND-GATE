@@ -1,6 +1,6 @@
 # NAND-GATE
 NAND GATE
-TABLE OF CONTENTS
+
 
 <table>
     <tr>
@@ -14,3 +14,4 @@ TABLE OF CONTENTS
     </tr>
 </table>
  
+![Alt text](/path/to/img.jpg)
