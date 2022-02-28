@@ -1,2 +1,9 @@
 # NAND-GATE
-NAND GATE DESIGN SCHEMATIC
+NAND GATE
+TABLE OF CONTENTS
+DESIGN SCHEMATIC
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
