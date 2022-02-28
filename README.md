@@ -14,4 +14,4 @@ NAND GATE
     </tr>
 </table>
  
-![Alt text](screenshot(336).jpg)
+![Alt text](screenshot(336).png)
